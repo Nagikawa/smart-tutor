@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Science Tutor",
+  "description": "An interactive EdTech learning app using Socratic self-explanation prompts, voice ASR/TTS, and causal reasoning feedback grounded in the ICAP framework.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
